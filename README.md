@@ -42,7 +42,7 @@ The model is integrated into a Flask web application and deployed online using R
 
 ## 📂 Project Structure
 diabetes-predictor/
-│── app.py
+│── diabetes.py
 │── model.pkl
 │── requirements.txt
 │── Procfile
