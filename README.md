@@ -7,7 +7,7 @@ A machine learning web application that predicts whether a person is likely to h
 
 ## 🚀 Live Demo
 
-👉 https://diabetes-predictor-1-yw6m.onrender.com/
+👉 https://diabetes-predictor-ou7k.onrender.com/
 
 ---
 
