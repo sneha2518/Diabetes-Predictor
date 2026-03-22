@@ -65,7 +65,7 @@ diabetes-predictor/
 ## 💻 How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/your-username/diabetes-predictor.git
+git clone https://github.com/sneha2518/diabetes-predictor.git
 
 2. Navigate to the folder:
 cd diabetes-predictor
